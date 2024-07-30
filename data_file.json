@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "name": "John",
+            "age": 20,
+            "major": "Computer Science",
+            "gpa": 3.5
+        },
+        {
+            "name": "Smith",
+            "age": 22,
+            "major": "Mathematics",
+            "gpa": 3.8
+        },
+        {
+            "name": "Alice Johnson",
+            "age": 21,
+            "major": "Physics",
+            "gpa": 3.6
+        },
+        {
+            "name": "Bob Brown",
+            "age": 23,
+            "major": "Chemistry",
+            "gpa": 3.2
+        },
+        {
+            "name": "Charlie Davis",
+            "age": 20,
+            "major": "Biology",
+            "gpa": 3.7
+        }
+    ]
+}

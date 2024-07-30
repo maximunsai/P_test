@@ -3,3 +3,8 @@ def cap_text(text):
     words = text.split()
     title_words = [word.title() for word in words]
     return " ".join(title_words)
+
+
+
+
+#added new line
